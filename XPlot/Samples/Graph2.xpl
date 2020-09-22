@@ -1,0 +1,12 @@
+Abs(x)^(Sin(x)+rnd)
+ 1 
+10
+10
+True
+False
+ 1 
+True
+False
+False
+False
+False

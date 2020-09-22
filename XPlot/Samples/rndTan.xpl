@@ -1,0 +1,12 @@
+tan(x*rnd)
+ 1 
+5
+5
+False
+True
+ 0.01 
+False
+False
+True
+False
+False
