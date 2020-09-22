@@ -1,0 +1,12 @@
+Sin(2*3.1415*x)
+ 0 
+.5
+1
+False
+True
+ 0.1 
+False
+True
+False
+False
+False
